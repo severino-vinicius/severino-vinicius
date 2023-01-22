@@ -27,7 +27,7 @@
   </div>
   
   <div>
-  <a href="https://www.linkedin.com/in/severino-vin%C3%ADcius-sales-907762261/" target="_blanck">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+  <a href="https://www.linkedin.com/in/severino-vin%C3%ADcius-sales-907762261/" target="_blanck">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"/> </a>
   
    <a href="mailto:severino.sales95@gmail.com" target="_blanck"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
   
