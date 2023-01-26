@@ -37,8 +37,8 @@
 -------------------------------------------------------------------------------------------------------------------------------------
   
 <div>
-<img width="42%" height="180cm" src="https://github-readme-stats.vercel.app/api?username=severino-vinicius&show_icons=true&theme=synthwave"/> 
-<img width="50%" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=severino-vinicius&show_icons=true&theme=synthwave"/> 
+<a href=""> <img width="42%" height="180cm" src="https://github-readme-stats-sigma-five.vercel.app/api?username=severino-vinicius&show_icons=true&theme=synthwave"/> </a> 
+<a href=""> <img width="50%" height="180cm" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=severino-vinicius&show_icons=true&theme=synthwave"/> </a> 
 </div>
 
 <!--
