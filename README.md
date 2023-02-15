@@ -7,7 +7,7 @@
   
   <p> Em 2014 comecei a trabalhar na Claro como Técnico em telecomunicações, maior parte das minhas atividades estavam relacionadas a manutenção de equipamento de transmissão e equipamentos de rede (switch e roteador).</p>
   
-  <p>Hoje quase 9 anos depois estou aceitando um novo desafio da minha carreira, realizar a transição de carreira e com a ajuda da Trybe pretendo conseguir me tornar dedsenvolvedor.</p>
+  <p>Hoje quase 9 anos depois estou aceitando um novo desafio da minha carreira, realizar a transição de carreira e com a ajuda da Trybe pretendo conseguir me tornar desenvolvedor.</p>
   
 ### Sobre mim:
 <ul>
