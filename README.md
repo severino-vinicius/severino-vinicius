@@ -3,11 +3,11 @@
 
 -------------------------------------------------------------------------------------------------------------
 
-  <p> Me chamo Severino Vinícius, nasci em Natal - RN, mas atualmente moro no Rio de Janeiro - RJ. Comecei minha vida na informática com 15 anos através do ensino médio com formação em Informática Industrial, lá consegui meu primeiro estágio, na Hostnet (empresa de hospedagem de sites) onde logo depois fui contratado.</p>
+  <p> Como um estudante de desenvolvimento fullstack em transição de carreira, formado em Gestão de Tecnologia da Informação, estou sempre em busca de novas tecnologias e inovações para aprimorar minhas habilidades. Desde meu primeiro contato com a tecnologia aos 15 anos, através do ensino médio técnico em Informática, tenho sido apaixonado pela área.</p>
   
-  <p> Em 2014 comecei a trabalhar na Claro como Técnico em telecomunicações, maior parte das minhas atividades estavam relacionadas a manutenção de equipamento de transmissão e equipamentos de rede (switch e roteador).</p>
+  <p> Ao longo dos meus 9 anos de experiência no mercado de trabalho de tecnologia, trabalhei em diferentes empresas, incluindo uma na área de hospedagem de sites, onde forneci suporte ao cliente, e outra em uma grande empresa de telecomunicações, cuidando da manutenção de equipamentos de transmissão e equipamentos de rede, como switches e roteadores.</p>
   
-  <p>Hoje quase 9 anos depois estou aceitando um novo desafio da minha carreira, realizar a transição de carreira e com a ajuda da Trybe pretendo conseguir me tornar desenvolvedor.</p>
+  <p>Atualmente, estou animado para assumir um novo desafio em minha carreira e me tornar um desenvolvedor full stack. Estou comprometido em alcançar essa meta por meio da Trybe e suas mais de 1500 horas de conteúdo, sempre buscando me aprimorar e crescer profissionalmente.</p>
   
 ### Sobre mim:
 <ul>
