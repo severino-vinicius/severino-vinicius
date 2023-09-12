@@ -1,40 +1,86 @@
 
-## Olá 🖖
+<h1 align="center">Olá 🖖</h1>
 
--------------------------------------------------------------------------------------------------------------
-
+<div>
   <p> Como um estudante de desenvolvimento fullstack em transição de carreira, formado em Gestão de Tecnologia da Informação, estou sempre em busca de novas tecnologias e inovações para aprimorar minhas habilidades. Desde meu primeiro contato com a tecnologia aos 15 anos, através do ensino médio técnico em Informática, tenho sido apaixonado pela área.</p>
   
   <p> Ao longo dos meus 9 anos de experiência no mercado de trabalho de tecnologia, trabalhei em diferentes empresas, incluindo uma na área de hospedagem de sites, onde forneci suporte ao cliente, e outra em uma grande empresa de telecomunicações, cuidando da manutenção de equipamentos de transmissão e equipamentos de rede, como switches e roteadores.</p>
   
-  <p>Atualmente, estou animado para assumir um novo desafio em minha carreira e me tornar um desenvolvedor full stack. Estou comprometido em alcançar essa meta por meio da Trybe e suas mais de 1500 horas de conteúdo, sempre buscando me aprimorar e crescer profissionalmente.</p>
-  
-### Sobre mim:
-<ul>
-  <li>👨‍💻 Em formação na Trybe como desenvolvedor Fullstack;</li>
-  <li>🦅 Meus hobbies são jogar video-game e assistir o Corinthians;</li>
-  <li>🏋️‍♂️ Fitness life;</li>
-  <li>👨‍🎓 Sou formado em Gestão de TI mas busco uma mudança de carreira na área de DEV;</li>
- </ul>
- 
+  <p>Atualmente, estou animado para assumir um novo desafio em minha carreira e me tornar um desenvolvedor full stack. </p>
 
-  ### 💻 Minhas linguagens e ferramentas:
-  <div style="display: inline_block">
-  <img height="30cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="35cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img height="30cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img height="30cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-  <img height="30cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
-  </div>
+</div>
+
+  <div align="center">
+  <a href="https://www.linkedin.com/in/severino-vin%C3%ADcius-sales-907762261/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+  </a>
   
-  <div>
-  <a href="https://www.linkedin.com/in/severino-vin%C3%ADcius-sales-907762261/" target="_blanck">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"/> </a>
-  
-   <a href="mailto:severino.sales95@gmail.com" target="_blanck"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-  
-  </div>
-   
--------------------------------------------------------------------------------------------------------------------------------------
+  <a href="mailto:severino.sales95@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+<hr>
+
+<h3 align="center"> Sobre mim: </h3>
+<div align="center">
+  - 👨‍💻 Em formação na Trybe como desenvolvedor Fullstack;
+  - 🦅 Corinthians
+  - 🏋️‍♂️ Fitness life;
+  - 🎮 Video-game;
+</div>
+
+<hr>
+ 
+<h3 align="center">💻 Minhas linguagens e ferramentas:</h3>
+
+  <table align="center">
+  <tbody>
+    <tr>
+      <td style="display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+        <span>&nbsp;&nbsp;Javascript</span>
+      </td>
+      <td style="display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+        <span>&nbsp;&nbsp;Typescript</span>
+      </td>
+      <td style="display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+        <span>&nbsp;&nbsp;React</span>
+      </td>
+    </tr>
+    <tr>
+      <td style="display: flex; align-items: center;">
+        <img src="https://skillicons.dev/icons?i=github" height="40" alt="Github logo" />
+        <span>&nbsp;&nbsp;Github</span>
+      </td>
+      <td style="display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+        <span>&nbsp;&nbsp;Docker</span>
+      </td>
+      <td style="display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+        <span>&nbsp;&nbsp;Nodejs</span>
+      </td>
+    </tr>
+    <tr>
+      <td style="display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest logo" />
+        <span>&nbsp;&nbsp;Jest</span>
+      </td>
+      <td style="display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+        <span>&nbsp;&nbsp;CSS3</span>
+      </td>
+      <td style="display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+        <span>&nbsp;&nbsp;HTML5</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <!--  
 <div>
 <img width="42%" height="180cm" src="https://github-readme-stats-sigma-five.vercel.app/api?username=severino-vinicius&show_icons=true&theme=synthwave"/>
