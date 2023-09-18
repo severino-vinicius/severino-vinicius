@@ -49,6 +49,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
         <span>&nbsp;&nbsp;React</span>
       </td>
+      <td style="display: flex; align-items: center;">
+        <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express logo" />
+        <span>&nbsp;&nbsp;Express</span>
+      </td>
     </tr>
     <tr>
       <td style="display: flex; align-items: center;">
@@ -63,6 +67,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
         <span>&nbsp;&nbsp;Nodejs</span>
       </td>
+      <td style="display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="Sequelize logo" />
+        <span>&nbsp;&nbsp;Sequelize</span>
+      </td>
     </tr>
     <tr>
       <td style="display: flex; align-items: center;">
@@ -76,6 +84,10 @@
       <td style="display: flex; align-items: center;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
         <span>&nbsp;&nbsp;HTML5</span>
+      </td>
+      <td style="display: flex; align-items: center;">
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" height="40" alt="MySQL logo" />
+      <span>&nbsp;&nbsp;MySQL</span>
       </td>
     </tr>
   </tbody>
