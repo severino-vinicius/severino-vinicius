@@ -2,7 +2,7 @@
 <h1 align="center">Olá 🖖</h1>
 
 <div>
-  <p> Como um estudante de desenvolvimento fullstack em transição de carreira, formado em Gestão de Tecnologia da Informação, estou sempre em busca de novas tecnologias e inovações para aprimorar minhas habilidades. Desde meu primeiro contato com a tecnologia aos 15 anos, através do ensino médio técnico em Informática, tenho sido apaixonado pela área.</p>
+  <p> Sou um estudante de desenvolvimento fullstack em transição de carreira, formado em Gestão de Tecnologia da Informação, estou sempre em busca de novas tecnologias e inovações para aprimorar minhas habilidades. Desde meu primeiro contato com a tecnologia aos 15 anos, através do ensino médio técnico em Informática e tenho sido apaixonado pela área desde então.</p>
   
   <p> Ao longo dos meus 9 anos de experiência no mercado de trabalho de tecnologia, trabalhei em diferentes empresas, incluindo uma na área de hospedagem de sites, onde forneci suporte ao cliente, e outra em uma grande empresa de telecomunicações, cuidando da manutenção de equipamentos de transmissão e equipamentos de rede, como switches e roteadores.</p>
   
