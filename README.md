@@ -93,12 +93,11 @@
   </tbody>
 </table>
 
-<!--  
-<div>
+<div align="center">
 <img width="42%" height="180cm" src="https://github-readme-stats-sigma-five.vercel.app/api?username=severino-vinicius&show_icons=true&theme=synthwave"/>
 <img width="50%" height="180cm" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=severino-vinicius&show_icons=true&theme=synthwave"/>
 </div>
--->
+
 <!--
 **severino-vinicius/severino-vinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
